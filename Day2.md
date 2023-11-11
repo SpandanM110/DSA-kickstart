@@ -146,9 +146,9 @@ Doc: https://takeuforward.org/data-structure/find-the-largest-element-in-an-arra
 Code:
 
 '''
-#include <bits/stdc++.h> 
-int largestElement(vector<int> &arr, int n) {
-    // Write your code here.
+
+    #include <bits/stdc++.h> 
+    int largestElement(vector<int> &arr, int n) {
     int max=arr[0];
     for(int i =0; i<n;i++){
         
@@ -156,8 +156,8 @@ int largestElement(vector<int> &arr, int n) {
             max=arr[i];
         }
     }
-    return max;
-}
+    return max;   
+    }
 
 '''
 
