@@ -100,7 +100,10 @@ int main()
 ![image](https://github.com/SpandanM110/DSA-kickstart/assets/95229740/1b9713c4-3c94-4ee0-8924-43a1fce49bb8)
 
 Link: https://www.codingninjas.com/studio/problems/quick-sort_5844?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=SUBMISSION
+
 Doc: https://takeuforward.org/data-structure/quick-sort-algorithm/
+
+
 
 Code:
 ```
@@ -142,7 +145,11 @@ void quickSort(int input[], int start, int end) {
 ![image](https://github.com/SpandanM110/DSA-kickstart/assets/95229740/d8943403-dcba-47e6-9279-0cf702fb33db)
 
 Link: https://www.codingninjas.com/studio/problems/largest-element-in-the-array-largest-element-in-the-array_5026279?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf&leftPanelTabValue=SUBMISSION
+
+
 Doc: https://takeuforward.org/data-structure/find-the-largest-element-in-an-array/
+
+
 Code:
 
 '''
